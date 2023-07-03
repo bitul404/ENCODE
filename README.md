@@ -18,7 +18,7 @@
 - `pip install futures`
 - `pip2 install futures`
 - `pkg install git`
--  `rm -rf File `
+-  `rm -rf ENCODE `
 - `git clone https://github.com/bitul404/ENCODE `
 - `cd ENCODE`
 - `python ENC.py `
